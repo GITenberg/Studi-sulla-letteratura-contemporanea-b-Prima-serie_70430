@@ -1,0 +1,44 @@
+_repo: Studi-sulla-letteratura-contemporanea-b-Prima-serie_70430
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Capuana, Luigi
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '2402'
+    url: http://www.gutenberg.org/2009/agents/2402
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Luigi_Capuana
+    - https://en.wikipedia.org/wiki/Luigi_Capuana
+description: ''
+gutenberg_issued: '2023-03-31'
+identifiers:
+  gutenberg: '70430'
+language: it
+pgterms:marc904: https://archive.org/details/studisullaletter00capuuoft
+pgterms:marc905: 20210715091505capuana
+pgterms:marc906: '1880'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bG. Brigola, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature, Modern -- 19th century -- History and criticism'
+- !lcsh 'Literature, Modern -- 20th century -- History and criticism'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Giulio Michelet: Le Banquet -- Teofilo Gautier -- Lionardo Vigo
+  -- Emilio Zola: L''Assommoir. Une Page d''Amour -- Edmondo De Goncourt: Les frères
+  Zemganno -- Giovanni Prati: Armando. Psiche -- Lionardo Vigo e Mario Rapisardi:
+  Il Ruggiero, poema; La Palingenesi -- Mario Rapisardi: Lucifero -- Ferdinando Fontana
+  e Lorenzo Stecchetti: Poesie; Postuma -- Luigi Gualdo: La Gran Rivale. Un mariage
+  excentrique -- Roberto Sacchetti e Emanuele Navarro: Candaule ed altri racconti;
+  La Nana -- Giuseppe Pitrè: Studi di poesia popolare -- Il Libro di Giobbe -- Aleardo
+  Aleardi: Epistolario -- Luigi Settembrini: Ricordanze della mia vita -- Una Traduzione:
+  La Natura, libri sei di T. Lucrezio Caro tradotti da M. Rapisardi -- Antonio Galateo:
+  Opuscoli -- Madama Roland -- Un tipo Comico -- A. Canello: Saggi di critica letteraria.'
+title: 'Studi sulla letteratura contemporanea : $b Prima serie'
+url: http://www.gutenberg.org/ebooks/70430
