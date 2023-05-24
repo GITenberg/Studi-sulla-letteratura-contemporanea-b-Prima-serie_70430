@@ -1,5 +1,8 @@
 _repo: Studi-sulla-letteratura-contemporanea-b-Prima-serie_70430
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70430-h/images/cover.jpg
 creator:
   author:
     agent_name: Capuana, Luigi
@@ -11,6 +14,8 @@ creator:
     - https://it.wikipedia.org/wiki/Luigi_Capuana
     - https://en.wikipedia.org/wiki/Luigi_Capuana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70430#Studi-sulla-letteratura-contemporanea-b-Prima-serie
 gutenberg_issued: '2023-03-31'
 identifiers:
   gutenberg: '70430'
